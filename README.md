@@ -1,7 +1,7 @@
 # Awesome Websites
 ## The Awesome websites I stumbled upon by chance, Here's the log for them...
 
-- [AnswersSoCrates](https://answerspcrates.com) - Search for questions related to a topic
+- [AnswersSoCrates](https://answerssoxrates.com) - Search for questions related to a topic
 - [Bubbl](https://www.bubbl.us/) - Create Mind Maps and Flow Charts Easily
 - [Builtwith](https://builtwith.com/) - Find out what websites are built with
 - [Copy.ai](https://copy.ai/) - AI tool to create any sort of text for free
