@@ -2,6 +2,7 @@
 ## The Awesome websites I stumbled upon by chance, Here's the log for them...
 
 - [AnswersSoCrates](https://answersocrates.com/) - Search for questions related to a topic
+- [Beautiful.ai](https://www.beautiful.ai/) - AI Tool to create beautiful presentations with animations
 - [Bubbl](https://www.bubbl.us/) - Create Mind Maps and Flow Charts Easily
 - [Builtwith](https://builtwith.com/) - Find out what websites are built with
 - [Carrd](https://carrd.co/) - Create a Simple Single Page Websites
