@@ -4,6 +4,7 @@
 - [AnswersSoCrates](https://answersocrates.com/) - Search for questions related to a topic
 - [Bubbl](https://www.bubbl.us/) - Create Mind Maps and Flow Charts Easily
 - [Builtwith](https://builtwith.com/) - Find out what websites are built with
+- [Carrd](https://carrd.co/) - Create a Simple Single Page Websites
 - [Copy.ai](https://copy.ai/) - AI tool to create any sort of text for free
 - [Calligraphr](https://www.calligraphr.com/) - Convert your handwriting into a font
 - [Fast](https://fast.com/) - Check the speed of your internet connection
