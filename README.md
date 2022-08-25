@@ -1,6 +1,7 @@
 # Websites Bookmarks
 ## The Awesome websites I stumbled upon by chance, Here's the log for them...
 
+- [AlternativeTo](https://alternativeto.net/) - Find Similiar Open Source Alternatives
 - [AnswersSoCrates](https://answersocrates.com/) - Search for questions related to a topic
 - [Beautiful.ai](https://www.beautiful.ai/) - AI Tool to create beautiful presentations with animations
 - [Bubbl](https://www.bubbl.us/) - Create Mind Maps and Flow Charts Easily
@@ -22,9 +23,8 @@
 - [WeTransfer](https://wetransfer.com/) - Send and Receive big files over the internet
 - [WhatTheFont](https://myfonts.com/WhatTheFont/) - Find out what font any image is using
 - [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
-- [AlternativeTo](https://alternativeto.net/) - Find Similiar Open Source Alternatives
 - [ILovePDF](https://ilovepdf.com/) - Perform all operations with PDF files online
-- [Trello](https://trello.com/) - Free Project Management Tool, which help you categorize your projct works
+- [Trello](https://trello.com/) - Free Project Management Tool, which helps you categorize your project works
 - [Notion](https://notion.so/) - Free Notes Management Tool for Discussions
 - [NobaProject](https://nobaproject.com/) - Teach and learn Psychology for free
 - [3CX](https://3cx.com/) - Free Live Video Conferencing Online
