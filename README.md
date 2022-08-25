@@ -22,3 +22,24 @@
 - [WeTransfer](https://wetransfer.com/) - Send and Receive big files over the internet
 - [WhatTheFont](https://myfonts.com/WhatTheFont/) - Find out what font any image is using
 - [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
+- [AlternativeTo](https://alternativeto.net/) - Find Similiar Open Source Alternatives
+- [ILovePDF](https://ilovepdf.com/) - Perform all operations with PDF files online
+- [Trello](https://trello.com/) - Free Project Management Tool, which help you categorize your projct works
+- [Notion](https://notion.so/) - Free Notes Management Tool for Discussions
+- [NobaProject](https://nobaproject.com/) - Teach and learn Psychology for free
+- [3CX](https://3cx.com/) - Free Live Video Conferencing Online
+- [TaskRabbit](https://taskrabbit.com/) - Get Help regarding anything and everything
+- [Axiom.ai](https://axiom.ai/) - Create browser bots to automate website actions or any task
+- [Scholarships](https://scholarships.com/) - Find Scholarships for any course online
+- [Quora](https://quora.com/) - Ask or Answer Questions over the internet
+- [Looka](https://looka.com/) - AI based tool to create logo and build your brand
+- [AnswerThePublic](https://answerthepublic.com/) - See what people are asking related to any topic
+- [Canva](https://canva.com/) - Free Online Design Tool to create Designs, Videos, etc
+- [Gusto](https://gusto.com/) - The modern HR platform to manage your business
+- [Lumen5](https://lumen5.com/) - Easily make videos for content marketing, thought leadership, and brand awareness in a snap
+- [UberSuggest](https://neilpatel.com/ubersuggest/) - Easy SEO management tool
+- [Ninite](https://ninite.com/) - Download All in one packages regaring any softwares you need
+- [BlackMagicDesign](https://blackmagicdesign.com/) - Blackmagic Design creates the world's highest quality products for the feature film, post and broadcast i ndustries including URSA cameras, DaVinci Resolve and ATEM switchers
+- [Panzoid](https://panzoid.com/) - Online Content Creator (clips, backgrounds, videos, etc)
+- [MixKit](https://mixkit.co/) - Free assets for video projects
+- [DuckDuckGo](https://duckduckgo.com/) - Privacy Based Search Engine
