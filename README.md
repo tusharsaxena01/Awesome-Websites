@@ -43,3 +43,8 @@
 - [WeTransfer](https://wetransfer.com/) - Send and Receive big files over the internet
 - [WhatTheFont](https://myfonts.com/WhatTheFont/) - Find out what font any image is using
 - [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
+- [Loom](https://loom.com/) - Record quick videos of your screen and cam.
+- [CapCut](https://capcut.com/) - A free all-in-one video editing solution for everyone, everywhere
+- [Infogram](https://infogram.com/) - A user friendly solution to create informative images for projects and content
+- [University of People](https://uopeople.edu/) - An online university with minimal expenses for a degree in any course
+- [WhereGoes](https://wheregoes.com/) - URL Redirect Checker and tracer
