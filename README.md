@@ -1,45 +1,45 @@
 # Websites Bookmarks
 ## The Awesome websites I stumbled upon by chance, Here's the log for them...
 
+- [3CX](https://3cx.com/) - Free Live Video Conferencing Online
 - [AlternativeTo](https://alternativeto.net/) - Find Similiar Open Source Alternatives
+- [AnswerThePublic](https://answerthepublic.com/) - See what people are asking related to any topic
 - [AnswersSoCrates](https://answersocrates.com/) - Search for questions related to a topic
+- [Axiom.ai](https://axiom.ai/) - Create browser bots to automate website actions or any task
 - [Beautiful.ai](https://www.beautiful.ai/) - AI Tool to create beautiful presentations with animations
+- [BlackMagicDesign](https://blackmagicdesign.com/) - Blackmagic Design creates the world's highest quality products for the feature film, post and broadcast i ndustries including URSA cameras, DaVinci Resolve and ATEM switchers
 - [Bubbl](https://www.bubbl.us/) - Create Mind Maps and Flow Charts Easily
 - [Builtwith](https://builtwith.com/) - Find out what websites are built with
+- [Calligraphr](https://www.calligraphr.com/) - Convert your handwriting into a font
+- [Canva](https://canva.com/) - Free Online Design Tool to create Designs, Videos, etc
 - [Carrd](https://carrd.co/) - Create a Simple Single Page Websites
 - [Copy.ai](https://copy.ai/) - AI tool to create any sort of text for free
-- [Calligraphr](https://www.calligraphr.com/) - Convert your handwriting into a font
+- [DuckDuckGo](https://duckduckgo.com/) - Privacy Based Search Engine
 - [Fast](https://fast.com/) - Check the speed of your internet connection
+- [Gusto](https://gusto.com/) - The modern HR platform to manage your business
+- [ILovePDF](https://ilovepdf.com/) - Perform all operations with PDF files online
 - [InVideo](https://invideo.io/) - Create stunning Videos, Easily
-- [NameChk](https://www.namechk.com/) - Check for availability of any username across the web
 - [LastPass](https://lastpass.com/) - Password Manager from Anywhere
+- [Looka](https://looka.com/) - AI based tool to create logo and build your brand
+- [Lumen5](https://lumen5.com/) - Easily make videos for content marketing, thought leadership, and brand awareness in a snap
+- [MixKit](https://mixkit.co/) - Free assets for video projects
+- [NameChk](https://www.namechk.com/) - Check for availability of any username across the web
+- [Ninite](https://ninite.com/) - Download All in one packages regaring any softwares you need
+- [NobaProject](https://nobaproject.com/) - Teach and learn Psychology for free
+- [Notion](https://notion.so/) - Free Notes Management Tool for Discussions
+- [Panzoid](https://panzoid.com/) - Online Content Creator (clips, backgrounds, videos, etc)
 - [PhotoPea](https://www.photopea.com/) - Free Photoshop Online
 - [Pictory](https://pictory.ai) - AI tool to create videos from your text
+- [Quora](https://quora.com/) - Ask or Answer Questions over the internet
 - [RemoveBG](https://remove.bg/) - Remove Image Background
+- [Scholarships](https://scholarships.com/) - Find Scholarships for any course online
 - [SimilarSites](https://similarsites.com/) - Search for similar sites
 - [SwipeFile](https://swipefile.com/) - Look or copy text from other websites
-- [TubeBuddy](https://tubebuddy.com/) - Optimize your YouTube Channel faster
 - [TOSDR](https://tosdr.org/) - Terms of Services Didn't Read - Summarize the terms and conditions from any website
+- [TaskRabbit](https://taskrabbit.com/) - Get Help regarding anything and everything
+- [Trello](https://trello.com/) - Free Project Management Tool, which helps you categorize your project works
+- [TubeBuddy](https://tubebuddy.com/) - Optimize your YouTube Channel faster
+- [UberSuggest](https://neilpatel.com/ubersuggest/) - Easy SEO management tool
 - [WeTransfer](https://wetransfer.com/) - Send and Receive big files over the internet
 - [WhatTheFont](https://myfonts.com/WhatTheFont/) - Find out what font any image is using
 - [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
-- [ILovePDF](https://ilovepdf.com/) - Perform all operations with PDF files online
-- [Trello](https://trello.com/) - Free Project Management Tool, which helps you categorize your project works
-- [Notion](https://notion.so/) - Free Notes Management Tool for Discussions
-- [NobaProject](https://nobaproject.com/) - Teach and learn Psychology for free
-- [3CX](https://3cx.com/) - Free Live Video Conferencing Online
-- [TaskRabbit](https://taskrabbit.com/) - Get Help regarding anything and everything
-- [Axiom.ai](https://axiom.ai/) - Create browser bots to automate website actions or any task
-- [Scholarships](https://scholarships.com/) - Find Scholarships for any course online
-- [Quora](https://quora.com/) - Ask or Answer Questions over the internet
-- [Looka](https://looka.com/) - AI based tool to create logo and build your brand
-- [AnswerThePublic](https://answerthepublic.com/) - See what people are asking related to any topic
-- [Canva](https://canva.com/) - Free Online Design Tool to create Designs, Videos, etc
-- [Gusto](https://gusto.com/) - The modern HR platform to manage your business
-- [Lumen5](https://lumen5.com/) - Easily make videos for content marketing, thought leadership, and brand awareness in a snap
-- [UberSuggest](https://neilpatel.com/ubersuggest/) - Easy SEO management tool
-- [Ninite](https://ninite.com/) - Download All in one packages regaring any softwares you need
-- [BlackMagicDesign](https://blackmagicdesign.com/) - Blackmagic Design creates the world's highest quality products for the feature film, post and broadcast i ndustries including URSA cameras, DaVinci Resolve and ATEM switchers
-- [Panzoid](https://panzoid.com/) - Online Content Creator (clips, backgrounds, videos, etc)
-- [MixKit](https://mixkit.co/) - Free assets for video projects
-- [DuckDuckGo](https://duckduckgo.com/) - Privacy Based Search Engine
