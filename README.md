@@ -12,6 +12,7 @@
 - [Builtwith](https://builtwith.com/) - Find out what websites are built with
 - [Calligraphr](https://www.calligraphr.com/) - Convert your handwriting into a font
 - [Canva](https://canva.com/) - Free Online Design Tool to create Designs, Videos, etc
+- [CapCut](https://capcut.com/) - A free all-in-one video editing solution for everyone, everywhere
 - [Carrd](https://carrd.co/) - Create a Simple Single Page Websites
 - [Copy.ai](https://copy.ai/) - AI tool to create any sort of text for free
 - [DuckDuckGo](https://duckduckgo.com/) - Privacy Based Search Engine
@@ -19,8 +20,10 @@
 - [Gusto](https://gusto.com/) - The modern HR platform to manage your business
 - [ILovePDF](https://ilovepdf.com/) - Perform all operations with PDF files online
 - [InVideo](https://invideo.io/) - Create stunning Videos, Easily
+- [Infogram](https://infogram.com/) - A user friendly solution to create informative images for projects and content
 - [LastPass](https://lastpass.com/) - Password Manager from Anywhere
 - [Looka](https://looka.com/) - AI based tool to create logo and build your brand
+- [Loom](https://loom.com/) - Record quick videos of your screen and cam.
 - [Lumen5](https://lumen5.com/) - Easily make videos for content marketing, thought leadership, and brand awareness in a snap
 - [MixKit](https://mixkit.co/) - Free assets for video projects
 - [NameChk](https://www.namechk.com/) - Check for availability of any username across the web
@@ -40,11 +43,8 @@
 - [Trello](https://trello.com/) - Free Project Management Tool, which helps you categorize your project works
 - [TubeBuddy](https://tubebuddy.com/) - Optimize your YouTube Channel faster
 - [UberSuggest](https://neilpatel.com/ubersuggest/) - Easy SEO management tool
+- [University of People](https://uopeople.edu/) - An online university with minimal expenses for a degree in any course
 - [WeTransfer](https://wetransfer.com/) - Send and Receive big files over the internet
 - [WhatTheFont](https://myfonts.com/WhatTheFont/) - Find out what font any image is using
-- [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
-- [Loom](https://loom.com/) - Record quick videos of your screen and cam.
-- [CapCut](https://capcut.com/) - A free all-in-one video editing solution for everyone, everywhere
-- [Infogram](https://infogram.com/) - A user friendly solution to create informative images for projects and content
-- [University of People](https://uopeople.edu/) - An online university with minimal expenses for a degree in any course
 - [WhereGoes](https://wheregoes.com/) - URL Redirect Checker and tracer
+- [WolframAlpha](https://wolframalpha.com/) - Computational Intelligence
